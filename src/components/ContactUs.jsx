@@ -48,7 +48,7 @@ const ContactUs = () => {
                   type='text'
                   name='from_name'
                   required
-                  placeholder='Your Name'
+                  placeholder='Name'
                   className='w-full min-h-[40px] text-gray-700 bg-white rounded mb-4 h-[40px] px-2 py-3 text-base leading-7 block outline-gray-700 border border-[#e6e7e8]'
                 />
                 <textarea
